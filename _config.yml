@@ -1,11 +1,11 @@
 # ----------- CONFIGURABLE START -----------
-title:            "Arav Narula's Blog"
-description:      "Arav Narula's Blog"
+title:            "blog"
+description:      "You can never .."
 url:              http://aravnarula.com/blog # Site url, without a slash at the end.
 signoff:          "Arav Narula" # Your name
 facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
 google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
-share:         true # Turn on twitter and facebook share buttons
+share:         false # Turn on twitter and facebook share buttons
 
 links:
   - name:         Posts
